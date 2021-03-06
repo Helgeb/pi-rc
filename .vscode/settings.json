@@ -20,5 +20,6 @@
     "python.testing.nosetestsEnabled": false,
     "python.languageServer": "Pylance",
     "python.analysis.extraPaths": [],
-    "python.testing.promptToConfigure": false
+    "python.testing.promptToConfigure": false,
+    "python.pythonPath": "/home/helge/.local/share/virtualenvs/pi-rc-backend-3ZtD-Me1/bin/python"
 }
